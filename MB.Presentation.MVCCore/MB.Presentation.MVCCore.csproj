@@ -1,0 +1,149 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <StartupObject></StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\vendor\font-awesome\less\" />
+    <Folder Include="wwwroot\vendor\font-awesome\scss\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\custom.css" />
+    <None Include="wwwroot\css\fontastic.css" />
+    <None Include="wwwroot\css\site.css" />
+    <None Include="wwwroot\css\style.blue.css" />
+    <None Include="wwwroot\css\style.default.css" />
+    <None Include="wwwroot\css\style.green.css" />
+    <None Include="wwwroot\css\style.pink.css" />
+    <None Include="wwwroot\css\style.red.css" />
+    <None Include="wwwroot\css\style.sea.css" />
+    <None Include="wwwroot\css\style.violet.css" />
+    <None Include="wwwroot\favicon.ico" />
+    <None Include="wwwroot\fonts\blog.eot" />
+    <None Include="wwwroot\fonts\blog.svg" />
+    <None Include="wwwroot\fonts\blog.ttf" />
+    <None Include="wwwroot\fonts\blog.woff" />
+    <None Include="wwwroot\icons-reference\fonts\blog.eot" />
+    <None Include="wwwroot\icons-reference\fonts\blog.svg" />
+    <None Include="wwwroot\icons-reference\fonts\blog.ttf" />
+    <None Include="wwwroot\icons-reference\fonts\blog.woff" />
+    <None Include="wwwroot\icons-reference\icons-reference.html" />
+    <None Include="wwwroot\icons-reference\styles.css" />
+    <None Include="wwwroot\img\avatar-1.jpg" />
+    <None Include="wwwroot\img\avatar-2.jpg" />
+    <None Include="wwwroot\img\avatar-3.jpg" />
+    <None Include="wwwroot\img\blog-1.jpg" />
+    <None Include="wwwroot\img\blog-2.jpg" />
+    <None Include="wwwroot\img\blog-3.jpg" />
+    <None Include="wwwroot\img\blog-post-1.jpeg" />
+    <None Include="wwwroot\img\blog-post-2.jpg" />
+    <None Include="wwwroot\img\blog-post-3.jpeg" />
+    <None Include="wwwroot\img\blog-post-4.jpeg" />
+    <None Include="wwwroot\img\divider-bg.jpg" />
+    <None Include="wwwroot\img\favicon.ico" />
+    <None Include="wwwroot\img\featured-pic-1.jpeg" />
+    <None Include="wwwroot\img\featured-pic-2.jpeg" />
+    <None Include="wwwroot\img\featured-pic-3.jpeg" />
+    <None Include="wwwroot\img\gallery-1.jpg" />
+    <None Include="wwwroot\img\gallery-2.jpeg" />
+    <None Include="wwwroot\img\gallery-2.jpg" />
+    <None Include="wwwroot\img\gallery-3.jpg" />
+    <None Include="wwwroot\img\gallery-4.jpg" />
+    <None Include="wwwroot\img\hero-bg.jpg" />
+    <None Include="wwwroot\img\hero.jpg" />
+    <None Include="wwwroot\img\logo-white.png" />
+    <None Include="wwwroot\img\logo.png" />
+    <None Include="wwwroot\img\small-thumbnail-1.jpg" />
+    <None Include="wwwroot\img\small-thumbnail-2.jpg" />
+    <None Include="wwwroot\img\small-thumbnail-3.jpg" />
+    <None Include="wwwroot\img\template-mac.png" />
+    <None Include="wwwroot\img\user.svg" />
+    <None Include="wwwroot\js\front.js" />
+    <None Include="wwwroot\js\site.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.css" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.min.css" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\LICENSE" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\LICENSE.md" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.map" />
+    <None Include="wwwroot\lib\jquery\LICENSE.txt" />
+    <None Include="wwwroot\vendor\bootstrap\css\bootstrap-grid.css" />
+    <None Include="wwwroot\vendor\bootstrap\css\bootstrap-grid.min.css" />
+    <None Include="wwwroot\vendor\bootstrap\css\bootstrap-reboot.css" />
+    <None Include="wwwroot\vendor\bootstrap\css\bootstrap-reboot.min.css" />
+    <None Include="wwwroot\vendor\bootstrap\css\bootstrap.css" />
+    <None Include="wwwroot\vendor\bootstrap\css\bootstrap.min.css" />
+    <None Include="wwwroot\vendor\bootstrap\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\vendor\bootstrap\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\vendor\bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\vendor\bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\vendor\fancyapps\fancybox\jquery.fancybox.css" />
+    <None Include="wwwroot\vendor\fancyapps\fancybox\jquery.fancybox.js" />
+    <None Include="wwwroot\vendor\fancyapps\fancybox\jquery.fancybox.min.css" />
+    <None Include="wwwroot\vendor\fancyapps\fancybox\jquery.fancybox.min.js" />
+    <None Include="wwwroot\vendor\font-awesome\css\font-awesome.css" />
+    <None Include="wwwroot\vendor\font-awesome\css\font-awesome.min.css" />
+    <None Include="wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.eot" />
+    <None Include="wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.woff" />
+    <None Include="wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\vendor\font-awesome\fonts\FontAwesome.otf" />
+    <None Include="wwwroot\vendor\font-awesome\HELP-US-OUT.txt" />
+    <None Include="wwwroot\vendor\jquery.cookie\jquery.cookie.js" />
+    <None Include="wwwroot\vendor\jquery.cookie\MIT-LICENSE.txt" />
+    <None Include="wwwroot\vendor\jquery\core.js" />
+    <None Include="wwwroot\vendor\jquery\jquery.js" />
+    <None Include="wwwroot\vendor\jquery\jquery.min.js" />
+    <None Include="wwwroot\vendor\jquery\jquery.slim.js" />
+    <None Include="wwwroot\vendor\jquery\jquery.slim.min.js" />
+    <None Include="wwwroot\vendor\popper.js\esm\popper-utils.js" />
+    <None Include="wwwroot\vendor\popper.js\esm\popper-utils.min.js" />
+    <None Include="wwwroot\vendor\popper.js\esm\popper.js" />
+    <None Include="wwwroot\vendor\popper.js\esm\popper.min.js" />
+    <None Include="wwwroot\vendor\popper.js\popper-utils.js" />
+    <None Include="wwwroot\vendor\popper.js\popper-utils.min.js" />
+    <None Include="wwwroot\vendor\popper.js\popper.js" />
+    <None Include="wwwroot\vendor\popper.js\popper.min.js" />
+    <None Include="wwwroot\vendor\popper.js\umd\popper-utils.js" />
+    <None Include="wwwroot\vendor\popper.js\umd\popper-utils.min.js" />
+    <None Include="wwwroot\vendor\popper.js\umd\popper.js" />
+    <None Include="wwwroot\vendor\popper.js\umd\popper.min.js" />
+    <None Include="wwwroot\vendor\popper.js\umd\poppper.js.flow" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MB.Application.Contract\MB.Application.Contract.csproj" />
+    <ProjectReference Include="..\MB.Infrastructure.Core\MB.Infrastructure.Core.csproj" />
+  </ItemGroup>
+
+</Project>

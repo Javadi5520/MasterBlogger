@@ -1,0 +1,12 @@
+G:\MB\MasterBlogger\MB.Application.Contract\bin\Debug\net5.0\MB.Application.Contract.deps.json
+G:\MB\MasterBlogger\MB.Application.Contract\bin\Debug\net5.0\MB.Application.Contract.dll
+G:\MB\MasterBlogger\MB.Application.Contract\bin\Debug\net5.0\ref\MB.Application.Contract.dll
+G:\MB\MasterBlogger\MB.Application.Contract\bin\Debug\net5.0\MB.Application.Contract.pdb
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\MB.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\MB.Application.Contract.AssemblyInfoInputs.cache
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\MB.Application.Contract.AssemblyInfo.cs
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\MB.Application.Contract.csproj.CoreCompileInputs.cache
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\MB.Application.Contract.dll
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\ref\MB.Application.Contract.dll
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\MB.Application.Contract.pdb
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\MB.Application.Contract.csprojAssemblyReference.cache
