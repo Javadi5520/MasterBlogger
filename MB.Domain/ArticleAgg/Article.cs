@@ -5,7 +5,7 @@ namespace MB.Domain.ArticleAgg
 {
     public class Article
     {
-        public long Id { get; private set; }
+       public long Id { get; private set; }
         public string Title { get; private set; }
         public string ShortDescription { get; private set; }
         public string Image { get; private set; }
@@ -27,7 +27,7 @@ namespace MB.Domain.ArticleAgg
             Content = content;
             ArticleCategoryId = articleCategoryId;
             IsDeleted = false;
-            CreationDate=DateTime.Now;
+            CreationDate = DateTime.Now;
         }
     }
 }

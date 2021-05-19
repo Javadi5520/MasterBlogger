@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using MB.Domain.ArticleAgg;
 
 namespace MB.Domain.ArticleCategoryAgg
 {
