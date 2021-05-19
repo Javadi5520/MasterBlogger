@@ -19,5 +19,3 @@ namespace MB.Infrastructure.EFCore.Mappings
         }
     }
 }
-
-}

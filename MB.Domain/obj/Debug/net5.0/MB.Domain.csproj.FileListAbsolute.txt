@@ -10,3 +10,6 @@ G:\MB\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.CoreCompileInput
 G:\MB\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.dll
 G:\MB\MasterBlogger\MB.Domain\obj\Debug\net5.0\ref\MB.Domain.dll
 G:\MB\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.pdb
+G:\MB\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Application.Contract.dll
+G:\MB\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Application.Contract.pdb
+G:\MB\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.CopyComplete

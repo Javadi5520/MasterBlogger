@@ -1,12 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using MB.Application.Contract.ArticleCategory;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace MB.Presentation.MVCCore.Areas.Administrator.Pages.ArticleCategoryManagment
+namespace MB.Presentation.MVCCore.Areas.Administrator.Pages.ArticleCategoryManagement
 {
     public class CreateModel : PageModel
     {

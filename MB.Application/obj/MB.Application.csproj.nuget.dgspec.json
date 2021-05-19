@@ -154,7 +154,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "G:\\MB\\MasterBlogger\\MB.Application.Contract\\MB.Application.Contract.csproj": {
+                "projectPath": "G:\\MB\\MasterBlogger\\MB.Application.Contract\\MB.Application.Contract.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -40,7 +40,6 @@ G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVC
 G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.csproj.CopyComplete
 G:\MB\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Application.Contract.dll
 G:\MB\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Application.Contract.pdb
-G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleCategoryManagment\List.cshtml.g.cs
 G:\MB\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 G:\MB\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 G:\MB\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -86,5 +85,7 @@ G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Adminis
 G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\Error.cshtml.g.cs
 G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\Index.cshtml.g.cs
 G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\Privacy.cshtml.g.cs
-G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleCategoryManagment\Create.cshtml.g.cs
-G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleCategoryManagment\Edit.cshtml.g.cs
+G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Create.cshtml.g.cs
+G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Edit.cshtml.g.cs
+G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\List.cshtml.g.cs
+G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\List.cshtml.g.cs
