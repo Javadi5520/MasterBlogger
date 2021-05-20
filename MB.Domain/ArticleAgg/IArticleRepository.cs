@@ -1,4 +1,5 @@
-﻿using MB.Application.Contract.Article;
+﻿using System;
+using MB.Application.Contract.Article;
 using System.Collections.Generic;
 
 namespace MB.Domain.ArticleAgg
@@ -7,5 +8,7 @@ namespace MB.Domain.ArticleAgg
     {
         List<ArticleViewModel> GetList();
         void CreateAndSave(Article entity);
+        Article Get(long id);
+        void Save();
     }
 }

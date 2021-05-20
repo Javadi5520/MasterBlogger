@@ -5,7 +5,7 @@ namespace MB.Domain.ArticleAgg
 {
     public class Article
     {
-       public long Id { get; private set; }
+        public long Id { get; private set; }
         public string Title { get; private set; }
         public string ShortDescription { get; private set; }
         public string Image { get; private set; }
@@ -20,6 +20,17 @@ namespace MB.Domain.ArticleAgg
         }
 
         public Article(string title, string shortDescription, string image, string content, long articleCategoryId)
+        {
+            Title = title;
+            ShortDescription = shortDescription;
+            Image = image;
+            Content = content;
+            ArticleCategoryId = articleCategoryId;
+            IsDeleted = false;
+            CreationDate = DateTime.Now;
+        }
+
+        public void Edit(string title, string shortDescription, string image, string content, long articleCategoryId)
         {
             Title = title;
             ShortDescription = shortDescription;
