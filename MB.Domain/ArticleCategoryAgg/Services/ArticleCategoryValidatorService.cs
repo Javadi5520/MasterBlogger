@@ -1,22 +1,22 @@
-﻿using System;
-using System.Data;
+﻿using MB.Domain.ArticleAgg;
 using MB.Domain.ArticleCategoryAgg.Exceptions;
 
 namespace MB.Domain.ArticleCategoryAgg.Services
 {
     public class ArticleCategoryValidatorService : IArticleCategoryValidatorService
     {
-        private readonly IArticleCategoryRepository _articleCategoryRepository;
+        private readonly IArticleRepository _articleRepository;
 
-        public ArticleCategoryValidatorService(IArticleCategoryRepository articleCategoryRepository)
+        public ArticleCategoryValidatorService(IArticleRepository articleRepository)
         {
-            _articleCategoryRepository = articleCategoryRepository;
+            _articleRepository = articleRepository;
         }
+
 
         public void CheckThatThisRecordAlreadyExists(string title)
         {
-            if (_articleCategoryRepository.Exists(title))
-                throw new DuplicatedRecordException("This record already exists in database");
+            if (_articleRepository.Exists(title))
+                throw new DuplicatedRecordException();
         }
     }
 }

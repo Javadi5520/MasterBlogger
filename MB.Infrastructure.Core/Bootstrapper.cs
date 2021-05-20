@@ -20,6 +20,7 @@ namespace MB.Infrastructure.Core
 
             services.AddTransient<IArticleApplication, ArticleApplication>();
             services.AddTransient<IArticleRepository, ArticleRepository>();
+            services.AddTransient<IArticleCategoryValidatorService, ArticleCategoryValidatorService>();
 
             services.AddTransient<IArticleCategoryValidatorService, ArticleCategoryValidatorService>();
             services.AddDbContext<MasterBloggerContext>(options =>
