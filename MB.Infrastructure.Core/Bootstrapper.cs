@@ -2,10 +2,12 @@
 using MB.Application.Contract.Article;
 using MB.Application.Contract.ArticleCategory;
 using MB.Domain.ArticleAgg;
+using MB.Domain.ArticleAgg.Services;
 using MB.Domain.ArticleCategoryAgg;
 using MB.Domain.ArticleCategoryAgg.Services;
 using MB.Infrastructure.EFCore;
 using MB.Infrastructure.EFCore.Repositories;
+using MB.Infrastructure.Query;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -17,12 +19,13 @@ namespace MB.Infrastructure.Core
         {
             services.AddTransient<IArticleCategoryApplication, ArticleCategoryApplication>();
             services.AddTransient<IArticleCategoryRepository, ArticleCategoryRepository>();
+            services.AddTransient<IArticleCategoryValidatorService, ArticleCategoryValidatorService>();
 
             services.AddTransient<IArticleApplication, ArticleApplication>();
             services.AddTransient<IArticleRepository, ArticleRepository>();
-            services.AddTransient<IArticleCategoryValidatorService, ArticleCategoryValidatorService>();
+            services.AddTransient<IArticleValidatorService, ArticleValidatorService>();
 
-            services.AddTransient<IArticleCategoryValidatorService, ArticleCategoryValidatorService>();
+            services.AddTransient<IArticleQuery,ArticleQuery>();
             services.AddDbContext<MasterBloggerContext>(options =>
                 options.UseSqlServer(connectionString));
         }

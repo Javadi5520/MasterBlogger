@@ -1532,6 +1532,19 @@
         "runtime": {
           "bin/placeholder/MB.Infrastructure.EFCore.dll": {}
         }
+      },
+      "MB.Infrastructure.Query/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MB.Infrastructure.EFCore": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MB.Infrastructure.Query.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MB.Infrastructure.Query.dll": {}
+        }
       }
     }
   },
@@ -5764,13 +5777,19 @@
       "type": "project",
       "path": "../MB.Infrastructure.EFCore/MB.Infrastructure.EFCore.csproj",
       "msbuildProject": "../MB.Infrastructure.EFCore/MB.Infrastructure.EFCore.csproj"
+    },
+    "MB.Infrastructure.Query/1.0.0": {
+      "type": "project",
+      "path": "../MB.Infrastructure.Query/MB.Infrastructure.Query.csproj",
+      "msbuildProject": "../MB.Infrastructure.Query/MB.Infrastructure.Query.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "MB.Application >= 1.0.0",
       "MB.Application.Contract >= 1.0.0",
-      "MB.Infrastructure.EFCore >= 1.0.0"
+      "MB.Infrastructure.EFCore >= 1.0.0",
+      "MB.Infrastructure.Query >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5813,6 +5832,9 @@
             },
             "G:\\MB\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
               "projectPath": "G:\\MB\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj"
+            },
+            "G:\\MB\\MasterBlogger\\MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj": {
+              "projectPath": "G:\\MB\\MasterBlogger\\MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj"
             }
           }
         }
