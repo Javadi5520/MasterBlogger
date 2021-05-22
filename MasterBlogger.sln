@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB.Presentation.MVCCore", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB.Infrastructure.Core", "MB.Infrastructure.Core\MB.Infrastructure.Core.csproj", "{5DE193F6-11EB-4D44-A261-CC31CCEFF31A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MB.Infrastructure.Query", "MB.Infrastructure.Query\MB.Infrastructure.Query.csproj", "{DEFFF3BA-225F-48E6-970A-0BA8888999D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB.Infrastructure.Query", "MB.Infrastructure.Query\MB.Infrastructure.Query.csproj", "{DEFFF3BA-225F-48E6-970A-0BA8888999D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Framwork", "01_Framwork\01_Framwork.csproj", "{F82AC37B-A56D-46DF-8A26-24FC68256BBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{DEFFF3BA-225F-48E6-970A-0BA8888999D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEFFF3BA-225F-48E6-970A-0BA8888999D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEFFF3BA-225F-48E6-970A-0BA8888999D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82AC37B-A56D-46DF-8A26-24FC68256BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82AC37B-A56D-46DF-8A26-24FC68256BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82AC37B-A56D-46DF-8A26-24FC68256BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82AC37B-A56D-46DF-8A26-24FC68256BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
