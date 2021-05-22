@@ -1,10 +1,13 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 using _01_Framwork.Domain;
 using MB.Domain.ArticleCategoryAgg;
+using MB.Domain.CommentAgg;
 
 namespace MB.Domain.ArticleAgg
 {
-    public class Article:DomainBase<long>
+    public class Article : DomainBase<long>
     {
         public string Title { get; private set; }
         public string ShortDescription { get; private set; }
@@ -13,8 +16,9 @@ namespace MB.Domain.ArticleAgg
         public bool IsDeleted { get; private set; }
         public long ArticleCategoryId { get; private set; }
         public ArticleCategory ArticleCategory { get; private set; }
+        public ICollection<Comment> Comments { get; private set; }
 
-        private Article()
+        protected Article()
         {
         }
 
@@ -28,6 +32,7 @@ namespace MB.Domain.ArticleAgg
             Content = content;
             ArticleCategoryId = articleCategoryId;
             IsDeleted = false;
+            Comments = new List<Comment>();
         }
 
         private static void Validate(string title, long articleCategoryId)
