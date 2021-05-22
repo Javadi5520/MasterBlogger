@@ -1,5 +1,6 @@
 ﻿using MB.Application.Contracts.Comment;
 using MB.Domain.CommentAgg;
+using System.Collections.Generic;
 
 namespace MB.Application
 {
@@ -16,6 +17,25 @@ namespace MB.Application
         {
             var comment = new Comment(command.Name, command.Email, command.Message, command.ArticleId);
             _commentRepository.CreateAndSave(comment);
+        }
+
+        public void Cancel(long id)
+        {
+            var comment = _commentRepository.Get(id);
+            comment.Canceled();
+            _commentRepository.Save();
+        }
+
+        public void Confirm(long id)
+        {
+            var comment = _commentRepository.Get(id);
+            comment.Confirm();
+            _commentRepository.Save();
+        }
+
+        public List<CommentViewModel> GetList()
+        {
+            return _commentRepository.GetList();
         }
     }
 }

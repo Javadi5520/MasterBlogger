@@ -95,3 +95,4 @@ G:\MB\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\01_Framwork.dll
 G:\MB\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Application.Contracts.dll
 G:\MB\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Application.Contracts.pdb
 G:\MB\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\01_Framwork.pdb
+G:\MB\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\CommentManagement\List.cshtml.g.cs
