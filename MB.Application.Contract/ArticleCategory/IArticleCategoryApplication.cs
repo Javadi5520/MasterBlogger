@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MB.Application.Contract.ArticleCategory
+namespace MB.Application.Contracts.ArticleCategory
 {
     public interface IArticleCategoryApplication
     {

@@ -1492,14 +1492,14 @@
           "bin/placeholder/01_Framwork.dll": {}
         }
       },
-      "MB.Application.Contract/1.0.0": {
+      "MB.Application.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/MB.Application.Contract.dll": {}
+          "bin/placeholder/MB.Application.Contracts.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MB.Application.Contract.dll": {}
+          "bin/placeholder/MB.Application.Contracts.dll": {}
         }
       },
       "MB.Domain/1.0.0": {
@@ -1507,7 +1507,7 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "01_Framwork": "1.0.0",
-          "MB.Application.Contract": "1.0.0"
+          "MB.Application.Contracts": "1.0.0"
         },
         "compile": {
           "bin/placeholder/MB.Domain.dll": {}
@@ -5747,10 +5747,10 @@
       "path": "../01_Framwork/01_Framwork.csproj",
       "msbuildProject": "../01_Framwork/01_Framwork.csproj"
     },
-    "MB.Application.Contract/1.0.0": {
+    "MB.Application.Contracts/1.0.0": {
       "type": "project",
-      "path": "../MB.Application.Contract/MB.Application.Contract.csproj",
-      "msbuildProject": "../MB.Application.Contract/MB.Application.Contract.csproj"
+      "path": "../MB.Application.Contract/MB.Application.Contracts.csproj",
+      "msbuildProject": "../MB.Application.Contract/MB.Application.Contracts.csproj"
     },
     "MB.Domain/1.0.0": {
       "type": "project",

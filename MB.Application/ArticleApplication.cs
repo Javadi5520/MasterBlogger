@@ -1,6 +1,6 @@
-﻿using MB.Application.Contract.Article;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.Design;
+using MB.Application.Contracts.Article;
 using MB.Domain.ArticleAgg;
 
 namespace MB.Application

@@ -1,6 +1,6 @@
 ﻿using System;
-using MB.Application.Contract.Article;
 using System.Collections.Generic;
+using MB.Application.Contracts.Article;
 
 namespace MB.Domain.ArticleAgg
 {

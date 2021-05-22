@@ -1039,14 +1039,20 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
-      "MB.Application.Contract/1.0.0": {
+      "01_Framwork/1.0.0": {
         "runtime": {
-          "MB.Application.Contract.dll": {}
+          "01_Framwork.dll": {}
+        }
+      },
+      "MB.Application.Contracts/1.0.0": {
+        "runtime": {
+          "MB.Application.Contracts.dll": {}
         }
       },
       "MB.Domain/1.0.0": {
         "dependencies": {
-          "MB.Application.Contract": "1.0.0"
+          "01_Framwork": "1.0.0",
+          "MB.Application.Contracts": "1.0.0"
         },
         "runtime": {
           "MB.Domain.dll": {}
@@ -1059,6 +1065,14 @@
         },
         "runtime": {
           "MB.Infrastructure.EFCore.dll": {}
+        }
+      },
+      "MB.Application.Contract/1.0.0.0": {
+        "runtime": {
+          "MB.Application.Contract.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -1727,7 +1741,12 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
-    "MB.Application.Contract/1.0.0": {
+    "01_Framwork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MB.Application.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1739,6 +1758,11 @@
     },
     "MB.Infrastructure.EFCore/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MB.Application.Contract/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

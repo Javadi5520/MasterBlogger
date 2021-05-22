@@ -53,7 +53,7 @@ namespace MB.Domain.ArticleAgg
             Content = content;
             ArticleCategoryId = articleCategoryId;
             IsDeleted = false;
-            CreationDate = DateTime.Now;
+            //CreationDate = DateTime.Now;
         }
 
         public void Remove()

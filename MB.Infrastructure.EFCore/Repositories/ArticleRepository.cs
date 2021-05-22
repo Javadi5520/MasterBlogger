@@ -1,8 +1,8 @@
-﻿using MB.Application.Contract.Article;
-using MB.Domain.ArticleAgg;
+﻿using MB.Domain.ArticleAgg;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
+using MB.Application.Contracts.Article;
 using Microsoft.EntityFrameworkCore;
 
 namespace MB.Infrastructure.EFCore.Repositories

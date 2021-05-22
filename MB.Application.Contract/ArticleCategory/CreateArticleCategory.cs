@@ -1,4 +1,4 @@
-﻿namespace MB.Application.Contract.ArticleCategory
+﻿namespace MB.Application.Contracts.ArticleCategory
 {
     public class CreateArticleCategory
     {

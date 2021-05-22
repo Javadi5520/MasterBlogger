@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using MB.Application.Contract.ArticleCategory;
+using MB.Application.Contracts.ArticleCategory;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 

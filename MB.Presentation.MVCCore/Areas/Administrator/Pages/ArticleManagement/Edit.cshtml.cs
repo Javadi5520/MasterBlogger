@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
-using MB.Application.Contract.Article;
-using MB.Application.Contract.ArticleCategory;
+using MB.Application.Contracts.Article;
+using MB.Application.Contracts.ArticleCategory;
 using MB.Domain.ArticleCategoryAgg;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;

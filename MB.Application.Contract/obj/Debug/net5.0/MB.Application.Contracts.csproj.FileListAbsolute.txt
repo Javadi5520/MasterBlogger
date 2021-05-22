@@ -1,0 +1,11 @@
+G:\MB\MasterBlogger\MB.Application.Contract\bin\Debug\net5.0\MB.Application.Contracts.deps.json
+G:\MB\MasterBlogger\MB.Application.Contract\bin\Debug\net5.0\MB.Application.Contracts.dll
+G:\MB\MasterBlogger\MB.Application.Contract\bin\Debug\net5.0\ref\MB.Application.Contracts.dll
+G:\MB\MasterBlogger\MB.Application.Contract\bin\Debug\net5.0\MB.Application.Contracts.pdb
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\MB.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\MB.Application.Contracts.AssemblyInfoInputs.cache
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\MB.Application.Contracts.AssemblyInfo.cs
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\MB.Application.Contracts.csproj.CoreCompileInputs.cache
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\MB.Application.Contracts.dll
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\ref\MB.Application.Contracts.dll
+G:\MB\MasterBlogger\MB.Application.Contract\obj\Debug\net5.0\MB.Application.Contracts.pdb

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB.Domain", "MB.Domain\MB.Domain.csproj", "{E695D0D1-3AB2-4EF7-8CAE-A577D8277622}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB.Application.Contract", "MB.Application.Contract\MB.Application.Contract.csproj", "{86686095-B37F-448C-BC55-0B314276DF1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB.Application.Contracts", "MB.Application.Contract\MB.Application.Contracts.csproj", "{86686095-B37F-448C-BC55-0B314276DF1C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB.Application", "MB.Application\MB.Application.csproj", "{AB3704CD-3AE5-45D6-B479-5FF299E0A0A6}"
 EndProject
@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB.Infrastructure.Core", "M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MB.Infrastructure.Query", "MB.Infrastructure.Query\MB.Infrastructure.Query.csproj", "{DEFFF3BA-225F-48E6-970A-0BA8888999D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Framwork", "01_Framwork\01_Framwork.csproj", "{F82AC37B-A56D-46DF-8A26-24FC68256BBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Framwork", "01_Framwork\01_Framwork.csproj", "{F82AC37B-A56D-46DF-8A26-24FC68256BBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,4 +1,4 @@
-﻿namespace MB.Application.Contract.Article
+﻿namespace MB.Application.Contracts.Article
 {
     public class CreateArticle
     {

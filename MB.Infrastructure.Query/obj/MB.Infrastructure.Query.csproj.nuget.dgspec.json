@@ -62,12 +62,12 @@
         }
       }
     },
-    "G:\\MB\\MasterBlogger\\MB.Application.Contract\\MB.Application.Contract.csproj": {
+    "G:\\MB\\MasterBlogger\\MB.Application.Contract\\MB.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\MB\\MasterBlogger\\MB.Application.Contract\\MB.Application.Contract.csproj",
-        "projectName": "MB.Application.Contract",
-        "projectPath": "G:\\MB\\MasterBlogger\\MB.Application.Contract\\MB.Application.Contract.csproj",
+        "projectUniqueName": "G:\\MB\\MasterBlogger\\MB.Application.Contract\\MB.Application.Contracts.csproj",
+        "projectName": "MB.Application.Contracts",
+        "projectPath": "G:\\MB\\MasterBlogger\\MB.Application.Contract\\MB.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\Aida\\.nuget\\packages\\",
         "outputPath": "G:\\MB\\MasterBlogger\\MB.Application.Contract\\obj\\",
         "projectStyle": "PackageReference",
@@ -151,8 +151,8 @@
               "G:\\MB\\MasterBlogger\\01_Framwork\\01_Framwork.csproj": {
                 "projectPath": "G:\\MB\\MasterBlogger\\01_Framwork\\01_Framwork.csproj"
               },
-              "G:\\MB\\MasterBlogger\\MB.Application.Contract\\MB.Application.Contract.csproj": {
-                "projectPath": "G:\\MB\\MasterBlogger\\MB.Application.Contract\\MB.Application.Contract.csproj"
+              "G:\\MB\\MasterBlogger\\MB.Application.Contract\\MB.Application.Contracts.csproj": {
+                "projectPath": "G:\\MB\\MasterBlogger\\MB.Application.Contract\\MB.Application.Contracts.csproj"
               }
             }
           }
