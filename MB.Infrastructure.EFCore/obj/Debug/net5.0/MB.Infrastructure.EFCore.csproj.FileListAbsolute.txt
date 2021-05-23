@@ -4,8 +4,12 @@ G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Infrastructure.
 G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Infrastructure.EFCore.dll
 G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\ref\MB.Infrastructure.EFCore.dll
 G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Infrastructure.EFCore.pdb
+G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\01_Framwork.dll
+G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.dll
 G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Domain.dll
 G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Domain.pdb
+G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\01_Framwork.pdb
+G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.pdb
 G:\MB\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.csprojAssemblyReference.cache
 G:\MB\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
 G:\MB\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.AssemblyInfoInputs.cache
@@ -16,7 +20,3 @@ G:\MB\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.
 G:\MB\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\ref\MB.Infrastructure.EFCore.dll
 G:\MB\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.pdb
 G:\MB\MasterBlogger\MB.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.genruntimeconfig.cache
-G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\01_Framwork.dll
-G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.dll
-G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\01_Framwork.pdb
-G:\MB\MasterBlogger\MB.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.pdb

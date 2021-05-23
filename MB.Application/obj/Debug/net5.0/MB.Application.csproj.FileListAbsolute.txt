@@ -2,8 +2,12 @@ G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.deps.json
 G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.dll
 G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\ref\MB.Application.dll
 G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.pdb
+G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\01_Framwork.dll
+G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.dll
 G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Domain.dll
+G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.pdb
 G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Domain.pdb
+G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\01_Framwork.pdb
 G:\MB\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csprojAssemblyReference.cache
 G:\MB\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
 G:\MB\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfoInputs.cache
@@ -13,7 +17,3 @@ G:\MB\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.CopyCo
 G:\MB\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.dll
 G:\MB\MasterBlogger\MB.Application\obj\Debug\net5.0\ref\MB.Application.dll
 G:\MB\MasterBlogger\MB.Application\obj\Debug\net5.0\MB.Application.pdb
-G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\01_Framwork.dll
-G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.dll
-G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.pdb
-G:\MB\MasterBlogger\MB.Application\bin\Debug\net5.0\01_Framwork.pdb

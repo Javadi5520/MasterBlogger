@@ -2,11 +2,17 @@ G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Co
 G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Core.dll
 G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\ref\MB.Infrastructure.Core.dll
 G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Core.pdb
+G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\01_Framwork.dll
+G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Application.Contracts.dll
 G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Application.dll
 G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Domain.dll
 G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.EFCore.dll
+G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.dll
+G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Application.Contracts.pdb
 G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Application.pdb
 G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.EFCore.pdb
+G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.pdb
+G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\01_Framwork.pdb
 G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Domain.pdb
 G:\MB\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.csprojAssemblyReference.cache
 G:\MB\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.GeneratedMSBuildEditorConfig.editorconfig
@@ -17,9 +23,3 @@ G:\MB\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Co
 G:\MB\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.dll
 G:\MB\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\ref\MB.Infrastructure.Core.dll
 G:\MB\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.pdb
-G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.dll
-G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.pdb
-G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\01_Framwork.dll
-G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Application.Contracts.dll
-G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Application.Contracts.pdb
-G:\MB\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\01_Framwork.pdb
