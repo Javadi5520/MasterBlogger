@@ -3,28 +3,18 @@ using MB.Domain.CommentAgg;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
+using _01_Framwork.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 
 namespace MB.Infrastructure.EFCore.Repositories
 {
-    public class CommentRepository : ICommentRepository
+    public class CommentRepository : BaseRepository<long, Comment>, ICommentRepository
     {
         private readonly MasterBloggerContext _context;
 
-        public CommentRepository(MasterBloggerContext context)
+        public CommentRepository(MasterBloggerContext context) : base(context)
         {
             _context = context;
-        }
-
-        public void CreateAndSave(Comment entity)
-        {
-            _context.Comments.Add(entity);
-            Save();
-        }
-
-        public Comment Get(long id)
-        {
-            return _context.Comments.FirstOrDefault(x => x.Id == id);
         }
 
         public List<CommentViewModel> GetList()
@@ -39,11 +29,6 @@ namespace MB.Infrastructure.EFCore.Repositories
                 CreationDate = x.CreationDate.ToString(CultureInfo.InvariantCulture),
                 Article = x.Article.Title
             }).ToList();
-        }
-
-        public void Save()
-        {
-            _context.SaveChanges();
         }
     }
 }

@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using _01_Framwork.Domain;
+﻿using _01_Framwork.Domain;
 using MB.Domain.ArticleCategoryAgg;
 using MB.Domain.CommentAgg;
+using System;
+using System.Collections.Generic;
 
 namespace MB.Domain.ArticleAgg
 {

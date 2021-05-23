@@ -2,7 +2,6 @@ G:\MB\MasterBlogger\01_Framwork\bin\Debug\net5.0\01_Framwork.deps.json
 G:\MB\MasterBlogger\01_Framwork\bin\Debug\net5.0\01_Framwork.dll
 G:\MB\MasterBlogger\01_Framwork\bin\Debug\net5.0\ref\01_Framwork.dll
 G:\MB\MasterBlogger\01_Framwork\bin\Debug\net5.0\01_Framwork.pdb
-G:\MB\MasterBlogger\01_Framwork\obj\Debug\net5.0\01_Framwork.csprojAssemblyReference.cache
 G:\MB\MasterBlogger\01_Framwork\obj\Debug\net5.0\01_Framwork.GeneratedMSBuildEditorConfig.editorconfig
 G:\MB\MasterBlogger\01_Framwork\obj\Debug\net5.0\01_Framwork.AssemblyInfoInputs.cache
 G:\MB\MasterBlogger\01_Framwork\obj\Debug\net5.0\01_Framwork.AssemblyInfo.cs

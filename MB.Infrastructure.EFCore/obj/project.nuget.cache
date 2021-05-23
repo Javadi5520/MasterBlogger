@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mySv/AIaZaL5E081Wy68Bd+E+ZTm8sipqJ2WCHyr9EGaGIhnLYtFPtF1bEiiIgSGjSeoaF+PJJcFKpd22dpYZQ==",
+  "dgSpecHash": "+X1lM9UxVSYFfQAHWmtnzAnMTRCPn1SFdvzMJWdDFyRi2bNA2b/uz1sCf2J50k+0lds2JW64p9Qh+BQxwXV34w==",
   "success": true,
   "projectFilePath": "G:\\MB\\MasterBlogger\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Aida\\.nuget\\packages\\elasticsearch.net\\7.12.1\\elasticsearch.net.7.12.1.nupkg.sha512",
     "C:\\Users\\Aida\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Aida\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Aida\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
@@ -34,8 +35,10 @@
     "C:\\Users\\Aida\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\Aida\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Aida\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Aida\\.nuget\\packages\\nest\\7.12.1\\nest.7.12.1.nupkg.sha512",
     "C:\\Users\\Aida\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\Aida\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\Aida\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Aida\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Aida\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\Aida\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
